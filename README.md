@@ -56,4 +56,5 @@ This project explores **DualA-Net**, a novel deep-learning architecture designed
 | **Sensitivity** | 70.89%  |
 | **Specificity** | 98.66%  |
 
-![Screenshot 2025-03-17 111150](https://github.com/user-attachments/assets/578b7860-6ed3-4cdc-9e82-8e02af2a4ce6)
+![test (1)](https://github.com/user-attachments/assets/eef7901e-7bb8-471d-b8fa-36b52a57befd)
+
